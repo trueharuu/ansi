@@ -110,7 +110,7 @@ module.exports = {
     ],
     '@typescript-eslint/method-signature-style': ['warn', 'property'],
     '@typescript-eslint/naming-convention': [
-      'warn',
+      'off',
       {
         format: ['strictCamelCase'],
         selector: [
